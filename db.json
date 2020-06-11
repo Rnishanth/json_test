@@ -1,4 +1,4 @@
-{
+"lambdaresponse":{
   "response": 
     {"statusCode":200,"body":[{"id":51,"year":"2018","snapshot_date":"","country":"SLOVAKIA","country_code":"SK","currency":"EUR","hco_number":"77","donation_and_grant_amt":"0","donation_and_grant_number":"77","donation_and_grant_per":"0","sponsership_amt":"77","sponsership_number":"0","sponsership_per":"77","registration_amt":"0","registration_number":"77","registration_per":"0","travel_and_accomodation_amt":"77","travel_and_accomodation_number":"0","travel_and_accomodation_per":"77","service_amt":"0","service_number":"77","service_per":"0","related_amt":"77","related_number":"0","related_per":"77"}]}
 },
